@@ -102,3 +102,11 @@ docker-compose up
 ```
 
 4. O serviço estará disponível em http://localhost:8080.
+
+## Cloud Run
+
+Para acessar o projeto no Google Cloud Run, acesse:
+
+```bash
+https://cep-climate-service-m5ywbqwhhq-uc.a.run.app
+```
