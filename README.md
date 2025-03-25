@@ -105,8 +105,8 @@ docker-compose up
 
 ## Cloud Run
 
-Para acessar o projeto no Google Cloud Run, acesse:
+Para acessar o projeto no Google Cloud Run, acesse (inclua o cep após o "="):
 
 ```bash
-https://cep-climate-service-m5ywbqwhhq-uc.a.run.app
+https://cep-climate-service-m5ywbqwhhq-uc.a.run.app/weather?cep=
 ```
